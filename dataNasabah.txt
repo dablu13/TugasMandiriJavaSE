@@ -1,0 +1,4 @@
+000001, Farhan, Bogor, 10/01/1997, Pria, Lajang, 0, 9000000.0, 0, 089653792348, muzakifarhan12@yahoo.com
+000002, Farhan Almas, Kuningan, 11/01/1997, Pria, Menikah, 1, 10000000.0, 0, 089653792349, muzakifarhan13@yahoo.com
+000003, Farhan Almas Hafiz, Jalaksana, 12/01/1997, Pria, Lajang, 0, 8000000.0, 0, 089653792350, muzakifarhan14@yahoo.com
+000004, Farhan Almas Hafiz Muzaki, Bogor, 10/01/1997, Pria, Lajang, 0, 8500000.0, 0, 089653792351, muzakifarhan15@yahoo.com
